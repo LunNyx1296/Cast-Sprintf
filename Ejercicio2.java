@@ -1,6 +1,6 @@
 package principal;
 
-import TEST.objetos;
+import test.objetos;
 
 public class Ejercicio2 {
 
